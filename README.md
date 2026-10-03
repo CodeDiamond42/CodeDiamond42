@@ -20,10 +20,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache-1a1b26?style=flat-square&logo=apache&logoColor=f7768e" alt="Apache"/>
-  <img src="https://img.shields.io/badge/MariaDB-1a1b26?style=flat-square&logo=mariadb&logoColor=7dcfff" alt="MariaDB"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-1a1b26?style=flat-square&logo=microsoftsqlserver&logoColor=f7768e" alt="Microsoft SQL Server"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-1a1b26?style=flat-square&logo=windowsterminal&logoColor=c0caf5" alt="Windows Terminal"/>
+  <img src="https://img.shields.io/badge/Apache-1a1b26?style=for-the-badge&logo=apache&logoColor=f7768e" alt="Apache"/>
+  <img src="https://img.shields.io/badge/MariaDB-1a1b26?style=for-the-badge&logo=mariadb&logoColor=7dcfff" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-1a1b26?style=for-the-badge&logo=microsoftsqlserver&logoColor=f7768e" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-1a1b26?style=for-the-badge&logo=windowsterminal&logoColor=c0caf5" alt="Windows Terminal"/>
 </p>
 
 ---
