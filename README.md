@@ -1,15 +1,53 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashin-naidoo-33437a356/) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Yashin+%F0%9F%91%8B;An+Aspiring+Software+Developer" alt="Hey, I'm Yashin" />
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=CodeDiamond42&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=CodeDiamond42&theme=tokyonight&hide_border=true)<br/>
+<br/>
 
+<a href="https://linkedin.com/in/yashin-naidoo-33437a356/"><img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=flat-square&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
+<a href="https://github.com/CodeDiamond42"><img src="https://img.shields.io/badge/CodeDiamond42-1a1b26?style=flat-square&logo=github&logoColor=c0caf5" alt="GitHub"/></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠️ Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,py,php,laravel&perline=7" alt="Languages and frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,sqlite,git,github,windows&perline=8" alt="Web, databases and tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache-1a1b26?style=flat-square&logo=apache&logoColor=f7768e" alt="Apache"/>
+  <img src="https://img.shields.io/badge/MariaDB-1a1b26?style=flat-square&logo=mariadb&logoColor=7dcfff" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-1a1b26?style=flat-square&logo=microsoftsqlserver&logoColor=f7768e" alt="Microsoft SQL Server"/>
+  <img src="https://img.shields.io/badge/Windows%20Terminal-1a1b26?style=flat-square&logo=windowsterminal&logoColor=c0caf5" alt="Windows Terminal"/>
+</p>
+
+---
+
+### 📈 Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=CodeDiamond42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&rank_icon=github" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=CodeDiamond42&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeDiamond42/CodeDiamond42/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeDiamond42/CodeDiamond42/output/github-snake.svg">
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/CodeDiamond42/CodeDiamond42/output/github-snake-dark.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+</p>
